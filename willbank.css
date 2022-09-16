@@ -1,0 +1,40 @@
+
+    .logo{
+display: inline;
+
+    }
+ ul {
+
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+li{
+   
+    display: block;
+        float: center;
+        padding: 2rem;
+        position: relative;
+        text-decoration: none;
+      
+    }
+
+    .nave{
+
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
+    }
+    .botao{
+
+        font-weight: 600;
+        background: black;
+        color: white;
+        height: 60px;
+        width: 100px;px;
+    }
+
